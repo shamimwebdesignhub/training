@@ -1,0 +1,1198 @@
+body {
+}
+.head {
+  width: 100%;
+  display: inline-flex;
+  background: black;
+}
+.hone {
+  width: 50%;
+}
+.fb {
+  padding: 5px;
+  font-size: 25px;
+  margin: 5px;
+  color: white;
+}
+.htwo {
+  width: 50%;
+  display: inline-flex;
+  position: relative;
+}
+.htwo p {
+  margin-right: -10px;
+}
+.sorao {
+  font-weight: 700;
+  color: white;
+  margin: 15px;
+  margin-left: 450px;
+}
+.soratwo {
+  font-weight: 700;
+  color: white;
+  margin: 16px;
+}
+.htwo button {
+  text-transform: uppercase;
+  font-weight: 600;
+  background: greenyellow;
+  border-radius: 5px;
+  position: absolute;
+  right: 1px;
+  padding: 10px;
+  margin: 6px;
+  border: none;
+}
+.headtwo {
+  width: 100%;
+  display: inline-flex;
+  background: white;
+}
+.logo {
+  width: 50%;
+}
+.logo h1 {
+  font-size: 2vw;
+  text-transform: uppercase;
+  font-style: italic;
+  margin-left: 50px;
+}
+.it {
+  background: greenyellow;
+  font-size: 20px;
+  padding: 15px;
+  font-style: italic;
+  color: white;
+}
+.mbar {
+  width: 50%;
+  display: inline-flex;
+}
+nav {
+}
+nav ul {
+  padding: 20px;
+  margin-top: 20px;
+}
+nav ul li {
+  display: inline;
+}
+nav ul li a {
+  padding: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
+nav ul li a:hover {
+  color: red;
+  font-weight: 700;
+}
+.whu {
+  margin-left: 80px;
+}
+.hero {
+  width: 100%;
+  display: inline-flex;
+  background:forestgreen;
+}
+.faka {
+  width: 25%;
+  background: greenyellow;
+  height: 80px;
+  margin-top: 55px;
+}
+.explane {
+  width: 50%;
+  text-align: center;
+}
+.explane h1 {
+  text-transform: uppercase;
+  font-size: 4vw;
+}
+.explane p {
+}
+.explane button {
+  padding: 15px;
+  background: gold;
+  border-radius: 5px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 15px;
+  margin: 20px;
+}
+.fakat {
+  width: 25%;
+  background: greenyellow;
+  height: 80px;
+  margin-top: 55px;
+}
+.our {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+}
+.adven {
+  color:greenyellow
+}
+.advp {
+  text-align: center;
+  margin: 0px 550px;
+}
+.icon {
+  width: 100%;
+  display: inline-flex;
+  margin-top: 30px;
+}
+.ione {
+  width: 20%;
+  text-align: center;
+  margin: 40px;
+}
+.ione img {
+  width: 45%;
+  border-radius: 50%;
+}
+.ione h2 {
+  text-transform: uppercase;
+}
+.ione p {
+}
+.abt {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+}
+.abspn {
+  color: greenyellow;
+}
+.about {
+  width: 100%;
+  display: inline-flex;
+  background: gray;
+}
+.abone {
+  width: 50%;
+}
+.abone p {
+  margin-left: 45px;
+  margin-right: 50px;
+  text-align: justify;
+  font-size: 20px;
+}
+.abone button {
+  text-transform: uppercase;
+  padding: 15px;
+  background: gold;
+  border-radius: 5px;
+  margin-left: 40px;
+  margin-top: 90px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.abtwo {
+  width: 50%;
+}
+.abtwo img {
+  width: 100%;
+}
+.ourr {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+}
+.ouspn {
+  color: greenyellow;
+}
+.orp {
+  text-align: center;
+  margin: 0px 550px;
+}
+.service {
+  width: 100%;
+  display: inline-flex;
+}
+.sone {
+  width: 25%;
+  background: gray;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+.sone img {
+  width: 25%;
+  border-radius: 50%;
+  margin-top: -55px;
+}
+.sone h2 {
+  text-transform: uppercase;
+}
+.sone p {
+}
+.sone button {
+  text-transform: uppercase;
+  padding: 15px;
+  background: gold;
+  border-radius: 5px;
+  margin-left: 40px;
+  margin-top: 25px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.porfolio {
+  width: 100%;
+  background: black;
+}
+.porfolioex {
+  width: 100%;
+}
+.porfolioex h1 {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: white;
+}
+.porspn {
+  color: greenyellow;
+}
+.porfolioex p {
+  text-align: center;
+  margin: 0px 450px;
+  color: white;
+  padding-bottom: 20px;
+}
+.pnav {
+  width: 100%;
+  text-align: center;
+  padding: 11px;
+}
+.pnav li {
+  display: inline;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin: 10px;
+  color: white;
+}
+.pnav li:hover {
+  font-weight: 700;
+  color: red;
+  transition: .5s;
+}
+.imgage {
+  width: 100%;
+  text-align: center;
+  margin-top: 5px;
+}
+.imgage img {
+  width: 95%;
+  margin: 10px;
+}
+.process {
+  width: 100%;
+}
+.prexplane {
+  width: 100%;
+  text-align: center;
+}
+.prexplane h1 {
+  text-transform: uppercase;
+  font-size: 40px;
+}
+.processspan {
+  color: greenyellow;
+}
+.prexplane p {
+  margin: 0px 400px;
+}
+.pricone {
+  width: 100%;
+  display: inline-flex;
+  margin-top: 10px;
+}
+.prone {
+  text-align: center;
+  width: 15%;
+  margin: 13px;
+}
+.prone img {
+  width: 50%;
+  border-radius: 50%;
+  border: 3px solid gray;
+}
+.prone h2 {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.prone p {
+  margin: 0px 20px;
+}
+.fa-brands {
+}
+.fa-facebook {
+  margin-left: 50px;
+}
+.fa-square-twitter {
+}
+.fa-linkedin {
+}
+.fa-google-plus {
+}
+.fa-solid {
+}
+.fa-phone-flip {
+  color: green;
+  margin-left: 20px;
+}
+.review {
+  width: 100%;
+  background: whitesmoke;
+}
+.rone {
+  width: 100%;
+  text-align: center;
+}
+.rone h1 {
+  text-transform: uppercase;
+  font-size: 2vw;
+}
+.respn {
+  color: greenyellow;
+}
+.rone p {
+  margin: 0px 400px;
+}
+.rtwo {
+  display: inline-flex;
+  width: 100%;
+}
+.rrtone {
+  width: 50%;
+  border-bottom: 2px solid black;
+  border-right: 2px solid black;
+}
+.rrtone img {
+  margin-left: 50px;
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 15%;
+}
+.rrtone h2 {
+  text-transform: uppercase;
+  margin-left: 200px;
+  margin-top: -120px;
+}
+.rrtone p {
+  margin-left: 200px;
+  margin-right: 150px;
+  text-align: justify;
+  margin-top: -10px;
+  margin-bottom: 70px;
+}
+.rtone {
+  width: 50%;
+}
+.rtone img {
+  margin-left: 50px;
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 15%;
+}
+.rtone h2 {
+  text-transform: uppercase;
+  margin-left: 200px;
+  margin-top: -120px;
+}
+.rtone p {
+  margin-left: 200px;
+  margin-right: 150px;
+  text-align: justify;
+  margin-top: -10px;
+  margin-bottom: 70px;
+}
+.rtthree {
+  display: inline-flex;
+  width: 100%;
+}
+.rttone {
+  width: 50%;
+}
+.rttone img {
+  margin-left: 50px;
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 15%;
+}
+.rttone h2 {
+  text-transform: uppercase;
+  margin-left: 200px;
+  margin-top: -120px;
+}
+.rttone p {
+  margin-left: 200px;
+  margin-right: 150px;
+  text-align: justify;
+  margin-top: -10px;
+  margin-bottom: 70px;
+}
+.rtttone {
+  width: 50%;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  margin-top: -2px;
+}
+.rtttone img {
+  margin-left: 50px;
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 15%;
+}
+.rtttone h2 {
+  text-transform: uppercase;
+  margin-left: 200px;
+  margin-top: -120px;
+}
+.rtttone p {
+  margin-left: 200px;
+  margin-right: 150px;
+  text-align: justify;
+  margin-top: -10px;
+  margin-bottom: 70px;
+}
+.skill {
+  width: 100%;
+  background: floralwhite;
+  margin-top: -25px;
+}
+.skexplane {
+  width: 100%;
+}
+.skexplane h1 {
+  text-align: center;
+  font-size: 2vw;
+  text-transform: uppercase;
+}
+.skspn {
+  color: greenyellow;
+}
+.skexplane p {
+  text-align: center;
+  margin: 0px 400px;
+}
+.skicone {
+  width: 100%;
+  display: inline-flex;
+}
+.skone {
+  text-align: center;
+  margin: 10px;
+  width: 20%;
+  margin-top: 50px;
+}
+.skone img {
+  width: 60%;
+  border-radius: 50%;
+}
+.skone h2 {
+  text-transform: uppercase;
+}
+.two {
+  margin-left: 160px;
+}
+.sign {
+  width: 100%;
+  background: yellowgreen;
+  margin-top: -35px;
+  text-align: center;
+}
+.sign h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3vw;
+  color: white;
+  margin-top: 35px;
+  padding-top: 50px;
+}
+.sign input {
+  text-transform: uppercase;
+  padding: 15px;
+  font-size: 15px;
+  border-radius: 5px;
+  margin: 15px;
+}
+.sign button {
+  text-transform: uppercase;
+  padding: 12px;
+  font-size: 20px;
+  border-radius: 5px;
+  background: orange;
+  margin-left: 50px;
+}
+.sign p {
+  text-align: center;
+  color: white;
+  margin: 30px 350px 10px 350px;
+  padding-bottom: 30px;
+}
+.fa-location-dot {
+  color: green;
+}
+.fa-regular {
+  color: green;
+}
+.fa-envelope {
+  color: green;
+  margin-left: 20px;
+}
+.map {
+  width: 100%;
+}
+.mapone {
+  width: 100%;
+}
+.mapone h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2vw;
+}
+.maspn {
+  color:greenyellow;
+}
+.mapone p {
+  text-align: center;
+  margin: 0px 400px;
+}
+.mapicon {
+  width: 100%;
+  text-align: center;
+}
+.mione {
+  font-weight: 700;
+  font-size: 20px;
+}
+.mitwo {
+  font-size: 20px;
+}
+.maptwo {
+  width: 100%;
+}
+.mappp {
+  width: 100%;
+  height: 350px;
+}
+.footer {
+  width: 100%;
+  background: yellowgreen;
+  margin-top: -3px;
+  display: inline-flex;
+}
+.flogo {
+  width: 30%;
+  margin: 30px;
+}
+.flogo h1 {
+  text-transform: uppercase;
+  color: white;
+  font-style: italic;
+  margin-left: 80px;
+  font-size: 2vw;
+}
+.flogo p {
+  margin-left: 80px;
+  margin-right: 50px;
+  text-align: justify;
+}
+.flogosp {
+  background: orange;
+  font-size: 13px;
+  padding: 10px;
+}
+.srv {
+  width: 20%;
+  margin: 30px;
+}
+.srv h1 {
+  text-transform: uppercase;
+  color: white;
+  margin-left: 40px;
+  font-size: 2vw;
+}
+.srv li {
+  list-style: none;
+  margin-left: 40px;
+  text-transform: capitalize;
+  padding: 4px;
+  color: white;
+}
+.link {
+  width: 20%;
+  border-left: 2px solid gray;
+  margin: 30px;
+}
+.link h1 {
+  text-transform: uppercase;
+  color: white;
+  margin-left: 40px;
+  font-size: 2vw;
+}
+.link li {
+  list-style: none;
+  margin-left: 40px;
+  text-transform: capitalize;
+  padding: 4px;
+  color: white;
+}
+.contacttt {
+  width: 30%;
+  border-left: 2px solid gray;
+  margin: 30px;
+}
+.contacttt h2 {
+  text-transform: uppercase;
+  color: white;
+  font-size: 2vw;
+  margin-left: 50px;
+}
+.contacttt p {
+  margin-left: 50px;
+  color: white;
+}
+.contacttt h1 {
+  text-transform: uppercase;
+  font-size: 2vw;
+  color: white;
+  margin-left: 50px;
+}
+.ffb {
+  margin-left: 50px;
+  font-size: 30px;
+  margin-top: -20px;
+  padding: 5px;
+}
+.x {
+  font-size: 30px;
+  margin-top: 0px;
+  padding: 5px;
+}
+.ind {
+  font-size: 30px;
+  padding: 5px;
+}
+.ggp {
+  font-size: 30px;
+  padding: 5px;
+}
+@media only screen and (min-width:320px) and (max-width:425px) {
+  body {
+  }
+  .head {
+  }
+  .hone {
+    width: 40%;
+  }
+  .fb {
+  margin: 0;
+  font-size: 2vw;
+  padding: 5px;
+  }
+  .htwo {
+    width: 60%;
+  }
+  .htwo p {
+    font-size: 2vw;
+    margin: 0;
+    margin-top: 8px;
+    margin-right: -18px;
+  }
+  .sorao {
+    margin: 0;
+    font-size: 2vw;
+  }
+  .soratwo {
+  }
+  .htwo button {
+    padding: 2px;
+    font-weight: 400;
+    font-size: 2vw;
+  }
+  .headtwo {
+  }
+  .logo {
+    width: 40%;
+  }
+  .logo h1 {
+    margin: 0;
+    font-size: 4vw;
+  }
+  .it {
+    font-size: 2vw;
+    padding: 1px;
+  }
+  .mbar {
+    width: 60%;
+  }
+  nav {
+  }
+  nav ul {
+    margin: 0;
+    padding: 1px;
+    margin-top: -5px;
+    padding-bottom: 8px;
+  }
+  nav ul li {
+  }
+  nav ul li a {
+    margin: 0;
+    padding: 1px;
+    font-size: 4px;
+    margin-top: 0;
+  }
+  nav ul li a:hover {
+  }
+  .whu {
+    margin: 0;
+  }
+  .hero {
+    width: 100%;
+  }
+  .faka {
+    width: 25%;
+    height: 25px;
+    margin-top: 26px;
+  }
+  .explane {
+    width: 50%;
+  }
+  .explane h1 {
+    margin-top: 30px;
+  }
+  .explane p {
+    font-size: 2vw;
+  }
+  .explane button {
+    margin: 0;
+    padding: 2px;
+    font-size: 2vw;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  .fakat {
+    width: 25%;
+    height: 25px;
+    margin-top: 26px;
+  }
+  .our {
+  font-size: 4vw;
+  }
+  .adven {
+  }
+  .advp {
+  margin: 0;
+  font-size: 2vw;
+  }
+  .icon {
+  width: 100%;
+  display: unset;
+  }
+  .ione {
+  width: 100%;
+  margin: 0;
+  margin-top: 15px;
+  }
+  .ione img {
+  }
+  .ione h2 {
+  }
+  .ione p {
+  }
+  .abt {
+  font-size: 4vw;
+  background: lightgrey;
+  padding: 5px;
+  margin-bottom: -19px;
+  }
+  .abspn {
+  }
+  .about {
+  display: unset;
+  }
+  .abone {
+  width: 100%;
+  background: lightgray;
+  }
+  .abone p {
+  margin: 0;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  }
+  .abone button {
+  font-size: 4vw;
+  margin: 0;
+  margin-left: 100px;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  }
+  .abtwo {
+  width: 100%;
+  }
+  .abtwo img {
+  }
+  .ourr {
+  font-size: 4vw;
+  }
+  .ouspn {
+  }
+  .orp {
+  margin: 0;
+  }
+  .service {
+  display: unset;
+  }
+  .sone {
+  width: 100%;
+  margin: 0;
+  margin-top: 70px;
+  }
+  .sone img {
+  }
+  .sone h2 {
+  }
+  .sone p {
+  }
+  .sone button {
+  font-size: 3vw;
+  padding: 10px;
+  margin-left: 0;
+  }
+  .porfolio {
+  }
+  .porfolioex {
+  }
+  .porfolioex h1 {
+  font-size: 4vw;
+  }
+  .porspn {
+  }
+  .porfolioex p {
+  margin: 0;
+  }
+  .pnav {
+  width: 100%;
+  padding: 0;
+  }
+  .pnav li {
+  margin: 0;
+  font-size: 2vw;
+  padding: 2px;
+  }
+  .pnav li:hover {
+  }
+  .imgage {
+  }
+  .imgage img {
+  }
+  .process {
+  }
+  .prexplane {
+  }
+  .prexplane h1 {
+  font-size: 4vw;
+  }
+  .processspan {
+  }
+  .prexplane p {
+  margin: 0;
+  }
+  .pricone {
+  display: unset;
+  margin: 0;
+  }
+  .prone {
+  width: 100%;
+  margin-top: 35px;
+  }
+  .prone img {
+  }
+  .prone h2 {
+  }
+  .prone p {
+  }
+  .fa-brands {
+  }
+  .fa-facebook {
+  margin: 1px;
+  }
+  .fa-square-twitter {
+  }
+  .fa-linkedin {
+  }
+  .fa-google-plus {
+  }
+  .fa-solid {
+  }
+  .fa-phone-flip {
+  margin-left: 20px;
+  }
+  .review {
+  }
+  .rone {
+  }
+  .rone h1 {
+  font-size: 4vw;
+  padding-top: 10px;
+  }
+  .respn {
+  }
+  .rone p {
+  margin: 0;
+  }
+  .rtwo {
+  display: unset;
+  }
+  .rrtone {
+  width: 100%;
+  border: none;
+  }
+  .rrtone img {
+  margin: 0;
+  margin-top: 45px;
+  margin-left: 10px;
+  width: 25%;
+  }
+  .rrtone h2 {
+  margin-left: 115px;
+  margin-top: -60px;
+  }
+  .rrtone p {
+  margin: 0;
+  margin-left: 10px;
+  margin-top: 30px;
+  margin-right: 10px;
+  }
+  .rtone {
+  width: 100%;
+  }
+  .rtone img {
+  margin-left: 10px;
+  width: 25%;
+  }
+  .rtone h2 {
+  margin: 0;
+  margin-left: 110px;
+  margin-top: -60px;
+  }
+  .rtone p {
+  margin: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 30px;
+  }
+  .rtthree {
+  display: unset;
+  }
+  .rttone {
+  width: 100%;
+  }
+  .rttone img {
+  margin-left: 10px;
+  width: 25%;
+  }
+  .rttone h2 {
+  margin-left: 110px;
+  margin-top: -60px;
+  }
+  .rttone p {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 30px;
+  }
+  .rtttone {
+  width: 100%;
+  border: none;
+  margin-top: -80px;
+  }
+  .rtttone img {
+  margin-left: 10px;
+  width: 25%;
+  }
+  .rtttone h2 {
+  margin-left: 110px;
+  margin-top: -60px;
+  }
+  .rtttone p {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 0;
+  }
+  .skill {
+  margin-top: -5px;
+  }
+  .skexplane {
+  }
+  .skexplane h1 {
+  font-size: 4vw;
+  }
+  .skspn {
+  }
+  .skexplane p {
+  margin: 0;
+  }
+  .skicone {
+  display: unset;
+  }
+  .skone {
+  width: 100%;
+  }
+  .skone img {
+  }
+  .skone h2 {
+  }
+  .two {
+  margin-left: 0;
+  }
+  .sign {
+  margin-top: -20px;
+  }
+  .sign h1 {
+  margin-top: 0;
+  padding-top: 20px;
+  font-size: 5vw;
+  }
+  .sign input {
+  padding: 10px;
+  }
+  .sign button {
+  margin-left: 0;
+  padding: 10px;
+  font-size: 4vw;
+  }
+  .sign p {
+  margin: 0;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+  }
+  .fa-location-dot {
+  }
+  .fa-regular {
+  }
+  .fa-envelope {
+  margin-left: 20px;
+  }
+  .map {
+  }
+  .mapone {
+  }
+  .mapone h1 {
+  font-size: 4vw;
+  }
+  .maspn {
+  }
+  .mapone p {
+  margin: 0;
+  }
+  .mapicon {
+  }
+  .mione {
+  font-size: 3.5vw;
+  margin-top: 30px;
+  }
+  .mitwo {
+  font-size: 3vw;
+  margin-left: -20px;
+  }
+  .maptwo {
+  }
+  .mappp {
+  width: 100%;
+  height: 160px;
+  }
+  .footer {
+  margin-top: -4px;
+  display: unset;
+  }
+  .flogo {
+  background: yellowgreen;
+  width: 100%;
+  margin: 0;
+  margin-top: -20px;
+  }
+  .flogo h1 {
+  margin-left: 10px;
+  font-size: 7vw;
+  text-align: center;
+  padding: 5px;
+  padding-top: 20px;
+  }
+  .flogo p {
+  margin: 0;
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-bottom: 15px;
+  }
+  .flogosp {
+  padding: 2px;
+  font-size: 3vw;
+  }
+  .srv {
+  width: 100%;
+  margin: 0;
+  background: yellowgreen;
+  }
+  .srv h1 {
+  text-align: center;
+  margin: 1px;
+  font-size: 6vw;
+  }
+  .srv li {
+  }
+  .link {
+  width: 100%;
+  margin: 0px;
+  border: none;
+  background: yellowgreen;
+  }
+  .link h1 {
+  text-align: center;
+  font-size: 6vw;
+  margin: 1px;
+  }
+  .link li {
+  }
+  .contacttt {
+  width: 100%;
+  margin: 0;
+  background: yellowgreen;
+  border: none;
+  }
+  .contacttt h2 {
+  font-size: 6vw;
+  text-align: center;
+  margin: 1px;
+  }
+  .contacttt p {
+  }
+  .contacttt h1 {
+  font-size: 5vw;
+  margin-bottom: 3px;
+  }
+  .ffb {
+  margin-left: 40px;
+  font-size: 6vw;
+  }
+  .x {
+  font-size: 6vw;
+  }
+  .ind {
+  font-size: 6vw;
+  }
+  .ggp {
+  font-size: 6vw;
+  }
+}
